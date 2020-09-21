@@ -1,0 +1,17 @@
+#idea
+.idea/
+*.iml
+**/target/
+**/testResult/
+**/test-output/
+**/*.log
+**/*.pid
+.DS_Store
+activemq-data/
+**/KahaDB/
+logs/
+**/logback.xml
+**/test/**/sql/*.sql
+**/test/**/sql-generated/*.sql
+**/test-output/
+/ufs-dictionary-web/web/docker/base-web/ext/*.jar
